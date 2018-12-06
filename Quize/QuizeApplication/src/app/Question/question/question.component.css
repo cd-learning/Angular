@@ -1,0 +1,28 @@
+.example-full-width{
+    width: 367px;
+    margin-top: 30px;
+}
+.container{
+    margin-left:300px;
+}
+.btn    {
+    background-color: #673AB8;
+    color: white;
+}
+.btn-success{
+background-color: tomato;
+color:black;
+}
+ 
+
+.btn-danger {
+    color: #fff;
+    background-color: #d9534f;
+     border-color: #d43f3a;
+}
+.btn-success{
+    color: #fff;
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+}
+ 
